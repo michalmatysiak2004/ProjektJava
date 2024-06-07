@@ -1,9 +1,8 @@
 package symulacja.organizmy.rosliny;
-
+import symulacja.organizmy.Zwierze;
 import symulacja.organizmy.Organizm;
 import symulacja.organizmy.Roslina;
-import symulacja.organizmy.Zwierze;
-
+import inne.*;
 import java.awt.*;
 
 public class BarszczSosnowskiego extends Roslina {

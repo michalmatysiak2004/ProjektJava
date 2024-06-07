@@ -1,7 +1,8 @@
 package symulacja.organizmy.Zwierzeta;
 
 import java.awt.*;
-
+import symulacja.organizmy.Zwierze;
+import inne.*;
 public class Wilk extends Zwierze {
 
     public static final int SILA = 9;

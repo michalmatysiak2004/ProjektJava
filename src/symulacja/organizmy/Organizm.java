@@ -1,6 +1,7 @@
 package symulacja.organizmy;
 
 import symulacja.Swiat;
+import inne.*;
 
 import java.awt.*;
 abstract public class Organizm {

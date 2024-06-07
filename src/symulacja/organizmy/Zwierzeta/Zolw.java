@@ -1,7 +1,8 @@
 package symulacja.organizmy.Zwierzeta;
 
 import symulacja.organizmy.Organizm;
-
+import inne.*;
+import symulacja.organizmy.Zwierze;
 import java.awt.*;
 
 import static java.lang.Math.random;

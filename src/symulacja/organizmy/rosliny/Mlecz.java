@@ -1,5 +1,5 @@
 package symulacja.organizmy.rosliny;
-
+import inne.*;
 import symulacja.organizmy.Roslina;
 
 import java.awt.*;

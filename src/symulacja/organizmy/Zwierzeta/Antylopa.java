@@ -1,6 +1,8 @@
 package symulacja.organizmy.Zwierzeta;
 
 import java.awt.*;
+import inne.Wektor2d;
+import symulacja.organizmy.Zwierze;
 
 import static java.lang.Math.random;
 

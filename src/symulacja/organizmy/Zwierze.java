@@ -2,7 +2,8 @@ package symulacja.organizmy;
 
 import symulacja.Swiat;
 
-    import static java.lang.Math.random;
+import inne.*;
+import static java.lang.Math.random;
 
     abstract public class Zwierze extends Organizm {
 

@@ -3,6 +3,7 @@ package symulacja.organizmy.rosliny;
 import symulacja.organizmy.Organizm;
 import symulacja.organizmy.Roslina;
 
+import inne.*;
 import java.awt.*;
 
 public class Trawa extends Roslina {

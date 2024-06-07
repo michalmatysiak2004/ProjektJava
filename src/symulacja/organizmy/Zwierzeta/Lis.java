@@ -1,7 +1,8 @@
 package symulacja.organizmy.Zwierzeta;
 
 import symulacja.organizmy.Organizm;
-
+import symulacja.organizmy.Zwierze;
+import inne.*;
 import java.awt.*;
 
 public class Lis extends Zwierze {

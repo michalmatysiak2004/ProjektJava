@@ -1,8 +1,9 @@
 package gui;
 
-import gui.Wizualizacja;
+
 import symulacja.Swiat;
 import inne.*;
+import gui.Wizualizacja;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

@@ -2,6 +2,7 @@ package symulacja.organizmy;
 
 import symulacja.organizmy.Organizm;
 
+import inne.*;
 import static java.lang.Math.random;
 
 public abstract class Roslina extends Organizm {

@@ -1,10 +1,10 @@
 package gui;
-
+import inne.*;
 import symulacja.organizmy.Organizm;
 import symulacja.Swiat;
 import symulacja.organizmy.Zwierzeta.*;
 import symulacja.organizmy.rosliny.*;
-
+import inne.Wektor2d;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -170,7 +170,7 @@ import java.awt.event.*;
                     if(org != null){
 
                         String imagePath = "C:\\Users\\polsk\\OneDrive\\Pulpit\\STUDIA\\semestr 2\\Programowanie Obiektowe\\ProjektJava\\" +
-                                "src\\"+ org.toString()+".png";
+                                "zdjecia\\"+ org.toString()+".png";
                         // Wczytaj obrazek z pliku
                         Image img = Toolkit.getDefaultToolkit().getImage(imagePath);
                         // Rysuj obrazek człowieka

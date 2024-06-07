@@ -1,6 +1,6 @@
-
+package inne;
 import java.util.Vector;
-
+import inne.*;
 public class Dziennik {
 
     public Dziennik(){
